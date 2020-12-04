@@ -2,8 +2,6 @@
 text rpg maker for python 3.x and nodetype
 
 
-TRPGmaker for python 3.x
-
 - ESSENTIAL
 1. nodetype compiler
 2. datatype module
